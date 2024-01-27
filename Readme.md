@@ -46,13 +46,13 @@ App uses unittest to test its funcionalities, it tests 6 most important cases:
 
 ![App Screenshot](docs/img/main.png)
 
-![List of tasks Screenshot](docs/img/lista.png)
+![List of tasks Screenshot](TasksApp/docs/img/lista.png)
 
-![Adding task Screenshot](docs/img/dodaj.png)
+![Adding task Screenshot](TasksApp/docs/img/dodaj.png)
 
-![Editing task Screenshot](docs/img/edytuj.png)
+![Editing task Screenshot](TasksApp/docs/img/edytuj.png)
 
-![Editing task Screenshot](docs/img/usuń.png)
+![Editing task Screenshot](TasksApp/docs/img/usuń.png)
 
 
 ## Roadmap
@@ -141,6 +141,6 @@ After successfully runing both server and client, website will be available loca
 ## Usefull links
 
  - [Next.JS](https://nextjs.org/)
- - [Flask](hhttps://flask.palletsprojects.com/en/3.0.x/)
+ - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
  - [DaisyUI](https://daisyui.com/)
   - [React-Icons](https://react-icons.github.io/react-icons/)
